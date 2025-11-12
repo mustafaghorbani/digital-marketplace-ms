@@ -1,0 +1,130 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.vs/
+.vs/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Node.js / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm
+.eslintcache
+.DS_Store
+*.pem
+
+## React build
+frontend/react-app/build/
+frontend/react-app/dist/
+frontend/react-app/.next/
+
+## Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+## Docker
+docker-compose.override.yml
+
+## Database
+*.db
+*.sqlite
+*.sqlite3
+
+## Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## OS
+.DS_Store
+Thumbs.db
+
+## IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Test results
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/
+!**/packages/build/
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
