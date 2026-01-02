@@ -2,7 +2,7 @@
 
 ## Phase 1: Foundation & Setup
 - [x] Project structure created
-- [ ] Docker Compose setup
+- [x] Docker Compose setup
 - [ ] Database schemas designed
 - [ ] Basic service skeletons
 
