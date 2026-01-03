@@ -138,8 +138,7 @@ This is a learning project. Follow the roadmap in `Documentation/ROADMAP.md` for
 
 ## 📝 License
 
-Educational project for learning microservices architecture.
-
+This project is public for viewing and contributions via pull requests only. Unauthorized commercial use is prohibited.
 ---
 
 **Status**: 🚧 In Development
