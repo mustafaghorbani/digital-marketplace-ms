@@ -7,7 +7,7 @@
 - [ ] Basic service skeletons
 
 ## Phase 2: Core Services
-- [ ] User Service CRUD
+- [x] User Service CRUD
 - [ ] Product Service CRUD
 - [ ] Order Service CRUD
 - [ ] Payment Service CRUD
